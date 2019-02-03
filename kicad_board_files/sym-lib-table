@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rpi_pogo_battery_black-rescue)(type Legacy)(uri ${KIPRJMOD}/rpi_pogo_battery_black-rescue.lib)(options "")(descr ""))
+)
